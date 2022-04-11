@@ -14,5 +14,5 @@
 - Step 08 - Configuring Jenkins Pipeline Path with Docker and Maven Tools
 - Step 09 - Running Unit Tests and Integration Tests in Jenkins Pipelines - 1
 - Step 10 - Running Unit Tests and Integration Tests in Jenkins Pipelines - 2
-- Step 11 - Build and Push Docker Image in Jenkins Pipelines - 1
+- Step 11 - Build and Push Docker Image  fgchx in Jenkins Pipelines - 1
 - Step 12 - Build and Push Docker Image in Jenkins Pipelines - 2
